@@ -10254,3 +10254,135 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 644, in auth
     raise SMTPAuthenticationError(code, resp)
 smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrsza7.qq.com')
+2021-03-04 10:39:40 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 10:39:40 [INFO] : 正在获取 [360] 威胁情报...
+2021-03-04 10:39:46 [INFO] : 得到 [360] 最新威胁情报 [0] 条
+2021-03-04 10:39:46 [INFO] : --------------------------------------------
+2021-03-04 10:39:46 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 10:39:46 [INFO] : 正在获取 [绿盟] 威胁情报...
+2021-03-04 10:39:46 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2021-03-04 10:39:46 [INFO] : --------------------------------------------
+2021-03-04 10:39:46 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 10:39:46 [INFO] : 正在获取 [奇安信] 威胁情报...
+2021-03-04 10:39:52 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2021-03-04 10:39:52 [INFO] : --------------------------------------------
+2021-03-04 10:39:52 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 10:39:52 [INFO] : 正在获取 [红后] 威胁情报...
+2021-03-04 10:39:54 [INFO] : 得到 [红后] 最新威胁情报 [10] 条
+2021-03-04 10:39:54 [INFO] : --------------------------------------------
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Qualcomm Wlan Firmware 安全漏洞
+[ TIME  ] 2021-03-04 13:27:50
+[ CVE   ] CVE-2020-11280
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=a91212fbc6794984a403fff99b16ed46
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Atlassian Jira Server 和 Jira Data Center 路径遍历漏洞
+[ TIME  ] 2021-03-04 13:27:33
+[ CVE   ] CVE-2020-29453
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=91ecf9df25a340f39219cd65be83bb65
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Qualcomm Dsp Service 资源管理错误漏洞
+[ TIME  ] 2021-03-04 13:27:33
+[ CVE   ] CVE-2020-11277
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=6826febc04724614985f13eeee4fe296
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Qualcomm Wlan Firmware 缓冲区错误漏洞
+[ TIME  ] 2021-03-04 13:27:33
+[ CVE   ] CVE-2020-11276
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=346b71a3330948e8924cb526e57e6bd5
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Cisco NX-OS Software 安全漏洞
+[ TIME  ] 2021-03-04 13:27:17
+[ CVE   ] CVE-2021-1387
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=e6ed2e023a1d42ccbc4aff98d8f64f95
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Directx 信息泄露漏洞
+[ TIME  ] 2021-03-04 13:27:17
+[ CVE   ] CVE-2021-24106
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=d61fdc0b35c840ca85e51f62c4359075
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Qualcomm Wlan Firmware 安全漏洞
+[ TIME  ] 2021-03-04 13:27:17
+[ CVE   ] CVE-2020-11278
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=be73a1474e2d49b5ba70b05a5a88a9dc
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Qualcomm Wlan Firmware 资源管理错误漏洞
+[ TIME  ] 2021-03-04 13:27:17
+[ CVE   ] CVE-2020-11270
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=01dd8b234a5f49d39053371cf826804c
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Microsoft SharePoint 安全漏洞
+[ TIME  ] 2021-03-04 13:26:50
+[ CVE   ] CVE-2021-24072
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=df8b0ba1bc204b52bc06881fed100c0b
+2021-03-04 10:39:54 [INFO] : 
+==============================================
+[ TITLE ] Qualcomm Audio 输入验证错误漏洞
+[ TIME  ] 2021-03-04 13:26:50
+[ CVE   ] CVE-2020-11271
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=82b042574d524ec68771ed16b129fcba
+2021-03-04 10:39:54 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 10:39:54 [INFO] : 正在获取 [安全客] 威胁情报...
+2021-03-04 10:39:56 [INFO] : 得到 [安全客] 最新威胁情报 [0] 条
+2021-03-04 10:39:56 [INFO] : --------------------------------------------
+2021-03-04 10:39:56 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 10:39:56 [INFO] : 正在获取 [斗象] 威胁情报...
+2021-03-04 10:40:03 [INFO] : 得到 [斗象] 最新威胁情报 [0] 条
+2021-03-04 10:40:03 [INFO] : --------------------------------------------
+2021-03-04 10:40:03 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 10:40:03 [INFO] : 正在获取 [CNVD] 威胁情报...
+2021-03-04 10:40:05 [WARNING] : 获取 [CNVD] 威胁情报失败： [HTTP Error 521]
+2021-03-04 10:40:05 [INFO] : 得到 [CNVD] 最新威胁情报 [0] 条
+2021-03-04 10:40:05 [INFO] : --------------------------------------------
+2021-03-04 10:40:05 [INFO] : [邮件] 正在推送威胁情报...
+2021-03-04 10:40:05 [INFO] : [邮件] 收件人清单： ['mrxn.net@gmail.com']
+2021-03-04 10:40:06 [ERROR] : [邮件] 推送威胁情报失败
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 9.46.5.7 to newxmesmtplogicsvrsza8.qq.com')
+2021-03-04 10:40:06 [ERROR] : Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 9.46.5.7 to newxmesmtplogicsvrsza8.qq.com')
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 9.46.5.7 to newxmesmtplogicsvrsza8.qq.com')
