@@ -10185,3 +10185,72 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.anquanke.com', po
 2021-03-04 08:40:56 [WARNING] : 获取 [CNVD] 威胁情报失败： [HTTP Error 521]
 2021-03-04 08:40:56 [INFO] : 得到 [CNVD] 最新威胁情报 [0] 条
 2021-03-04 08:40:56 [INFO] : --------------------------------------------
+2021-03-04 09:33:08 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 09:33:08 [INFO] : 正在获取 [360] 威胁情报...
+2021-03-04 09:33:10 [INFO] : 得到 [360] 最新威胁情报 [1] 条
+2021-03-04 09:33:10 [INFO] : --------------------------------------------
+2021-03-04 09:33:10 [INFO] : 
+==============================================
+[ TITLE ] VMware View Planner 远程代码执行漏洞通告
+[ TIME  ] 1970-01-01 00:00:00
+[ CVE   ] 
+[ SRC   ] 360
+[ URL   ] https://cert.360.cn/warning/detail?id=a5ef2a08fd53b2c7519dd06c23f11242
+2021-03-04 09:33:10 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 09:33:10 [INFO] : 正在获取 [绿盟] 威胁情报...
+2021-03-04 09:33:11 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2021-03-04 09:33:11 [INFO] : --------------------------------------------
+2021-03-04 09:33:11 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 09:33:11 [INFO] : 正在获取 [奇安信] 威胁情报...
+2021-03-04 09:33:17 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2021-03-04 09:33:17 [INFO] : --------------------------------------------
+2021-03-04 09:33:17 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 09:33:17 [INFO] : 正在获取 [红后] 威胁情报...
+2021-03-04 09:33:19 [INFO] : 得到 [红后] 最新威胁情报 [0] 条
+2021-03-04 09:33:19 [INFO] : --------------------------------------------
+2021-03-04 09:33:19 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 09:33:19 [INFO] : 正在获取 [安全客] 威胁情报...
+2021-03-04 09:33:25 [INFO] : 得到 [安全客] 最新威胁情报 [0] 条
+2021-03-04 09:33:25 [INFO] : --------------------------------------------
+2021-03-04 09:33:25 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 09:33:25 [INFO] : 正在获取 [斗象] 威胁情报...
+2021-03-04 09:33:33 [INFO] : 得到 [斗象] 最新威胁情报 [0] 条
+2021-03-04 09:33:33 [INFO] : --------------------------------------------
+2021-03-04 09:33:33 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-04 09:33:33 [INFO] : 正在获取 [CNVD] 威胁情报...
+2021-03-04 09:33:35 [WARNING] : 获取 [CNVD] 威胁情报失败： [HTTP Error 521]
+2021-03-04 09:33:35 [INFO] : 得到 [CNVD] 最新威胁情报 [0] 条
+2021-03-04 09:33:35 [INFO] : --------------------------------------------
+2021-03-04 09:33:35 [INFO] : [邮件] 正在推送威胁情报...
+2021-03-04 09:33:35 [INFO] : [邮件] 收件人清单： ['mrxn.net@gmail.com']
+2021-03-04 09:33:36 [ERROR] : [邮件] 推送威胁情报失败
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrsza7.qq.com')
+2021-03-04 09:33:36 [ERROR] : Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrsza7.qq.com')
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.7/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrsza7.qq.com')
