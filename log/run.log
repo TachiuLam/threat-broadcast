@@ -12565,3 +12565,135 @@ requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='www.anquanke.com', po
 2021-03-05 05:31:42 [WARNING] : 获取 [CNVD] 威胁情报失败： [HTTP Error 521]
 2021-03-05 05:31:42 [INFO] : 得到 [CNVD] 最新威胁情报 [0] 条
 2021-03-05 05:31:42 [INFO] : --------------------------------------------
+2021-03-05 06:35:49 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-05 06:35:49 [INFO] : 正在获取 [360] 威胁情报...
+2021-03-05 06:35:50 [INFO] : 得到 [360] 最新威胁情报 [0] 条
+2021-03-05 06:35:50 [INFO] : --------------------------------------------
+2021-03-05 06:35:50 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-05 06:35:50 [INFO] : 正在获取 [绿盟] 威胁情报...
+2021-03-05 06:35:51 [INFO] : 得到 [绿盟] 最新威胁情报 [0] 条
+2021-03-05 06:35:51 [INFO] : --------------------------------------------
+2021-03-05 06:35:51 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-05 06:35:51 [INFO] : 正在获取 [奇安信] 威胁情报...
+2021-03-05 06:35:56 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2021-03-05 06:35:56 [INFO] : --------------------------------------------
+2021-03-05 06:35:56 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-05 06:35:56 [INFO] : 正在获取 [红后] 威胁情报...
+2021-03-05 06:35:58 [INFO] : 得到 [红后] 最新威胁情报 [10] 条
+2021-03-05 06:35:58 [INFO] : --------------------------------------------
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] Synology DiskStation Manager 安全漏洞
+[ TIME  ] 2021-03-05 13:28:24
+[ CVE   ] CVE-2021-26567
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=597dd93098984cb0b3e68d3dc9cdc1c6
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] GITLAB GITLAB Vulnerability
+[ TIME  ] 2021-03-05 13:27:53
+[ CVE   ] CVE-2021-22182
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=d978c5dee8fa4e34a9f62bf0e340576a
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] Synology DiskStation Manager 安全漏洞
+[ TIME  ] 2021-03-05 13:27:53
+[ CVE   ] CVE-2021-26565
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=9402898d1d2b48648aef2de819a002fb
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Visual Studio 和 Visual Studio Code 安全漏洞
+[ TIME  ] 2021-03-05 13:27:52
+[ CVE   ] CVE-2021-1639
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=de7105a9e5364cd6b863b254ba7d1564
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] ownCloud 注入漏洞
+[ TIME  ] 2021-03-05 13:27:52
+[ CVE   ] CVE-2020-28646
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=943aefc1e5e748c8af7289bb5f10b70b
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] Synology DiskStation Manager 缓冲区错误漏洞
+[ TIME  ] 2021-03-05 13:27:52
+[ CVE   ] CVE-2021-26562
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=42c53daf6a0246ecabe6f7a0c237a19a
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] Synology DiskStation Manager 安全漏洞
+[ TIME  ] 2021-03-05 13:27:36
+[ CVE   ] CVE-2021-26566
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=7bd3fa73ebeb4369bf4039b584fdf35a
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] Synology DiskStation Manager 访问控制错误漏洞
+[ TIME  ] 2021-03-05 13:27:36
+[ CVE   ] CVE-2021-26563
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=3eb6294ea08a4aee9d8c225d4f45faa3
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] MediaTek cameraisp 安全漏洞
+[ TIME  ] 2021-03-05 13:27:35
+[ CVE   ] CVE-2021-0406
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=f6faf827439a4fe6807711eb0182d228
+2021-03-05 06:35:58 [INFO] : 
+==============================================
+[ TITLE ] Synology DiskStation Manager 安全漏洞
+[ TIME  ] 2021-03-05 13:27:35
+[ CVE   ] CVE-2021-26560
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=dd82e21724fe4162afa5c898e9c7b98a
+2021-03-05 06:35:58 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-05 06:35:58 [INFO] : 正在获取 [安全客] 威胁情报...
+2021-03-05 06:36:00 [INFO] : 得到 [安全客] 最新威胁情报 [0] 条
+2021-03-05 06:36:00 [INFO] : --------------------------------------------
+2021-03-05 06:36:00 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-05 06:36:00 [INFO] : 正在获取 [斗象] 威胁情报...
+2021-03-05 06:36:06 [INFO] : 得到 [斗象] 最新威胁情报 [0] 条
+2021-03-05 06:36:06 [INFO] : --------------------------------------------
+2021-03-05 06:36:06 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-05 06:36:06 [INFO] : 正在获取 [CNVD] 威胁情报...
+2021-03-05 06:36:07 [WARNING] : 获取 [CNVD] 威胁情报失败： [HTTP Error 521]
+2021-03-05 06:36:07 [INFO] : 得到 [CNVD] 最新威胁情报 [0] 条
+2021-03-05 06:36:07 [INFO] : --------------------------------------------
+2021-03-05 06:36:07 [INFO] : [邮件] 正在推送威胁情报...
+2021-03-05 06:36:07 [INFO] : [邮件] 收件人清单： ['mrxn.net@gmail.com']
+2021-03-05 06:36:09 [ERROR] : [邮件] 推送威胁情报失败
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 10.56.24.54 to newxmesmtplogicsvrszb6.qq.com')
+2021-03-05 06:36:09 [ERROR] : Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 10.56.24.54 to newxmesmtplogicsvrszb6.qq.com')
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 10.56.24.54 to newxmesmtplogicsvrszb6.qq.com')
