@@ -18945,3 +18945,184 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 644, in auth
     raise SMTPAuthenticationError(code, resp)
 smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrsza5.qq.com')
+2021-03-09 11:30:16 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-09 11:30:16 [INFO] : 正在获取 [360] 威胁情报...
+2021-03-09 11:30:18 [INFO] : 得到 [360] 最新威胁情报 [0] 条
+2021-03-09 11:30:18 [INFO] : --------------------------------------------
+2021-03-09 11:30:18 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-09 11:30:18 [INFO] : 正在获取 [绿盟] 威胁情报...
+2021-03-09 11:30:19 [INFO] : 得到 [绿盟] 最新威胁情报 [15] 条
+2021-03-09 11:30:19 [INFO] : --------------------------------------------
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Azure Virtual Machine信息泄露漏洞（CVE-2021-27075）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-27075
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53098
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Application Virtualization远程代码执行漏洞（CVE-2021-26890）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-26890
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53097
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Visio安全功能绕过漏洞（CVE-2021-27055）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-27055
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53096
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft HEVC Video Extensions远程代码执行漏洞（CVE-2021-27047）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-27047
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53095
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft HEVC Video Extensions远程代码执行漏洞（CVE-2021-27051）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-27051
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53094
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft HEVC Video Extensions远程代码执行漏洞（CVE-2021-27049）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-27049
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53093
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft HEVC Video Extensions远程代码执行漏洞（CVE-2021-24089）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-24089
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53092
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft HEVC Video Extensions远程代码执行漏洞（CVE-2021-27061）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-27061
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53091
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft HEVC Video Extensions远程代码执行漏洞（CVE-2021-27048）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-27048
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53090
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Windows Event Tracing权限提升漏洞（CVE-2021-26901）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-26901
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53089
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Windows Event Tracing权限提升漏洞（CVE-2021-26898）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-26898
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53088
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Windows Virtual Registry Provider权限提升漏洞（CVE-2021-26864）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-26864
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53087
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Remote Access API权限提升漏洞（CVE-2021-26882）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-26882
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53086
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Storage Spaces Controller权限提升漏洞（CVE-2021-26880）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-26880
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53085
+2021-03-09 11:30:19 [INFO] : 
+==============================================
+[ TITLE ] Microsoft Windows Update Stack权限提升漏洞（CVE-2021-26889）
+[ TIME  ] 2021-03-10 11:30:19
+[ CVE   ] CVE-2021-26889
+[ SRC   ] 绿盟
+[ URL   ] http://www.nsfocus.net/vulndb/53084
+2021-03-09 11:30:19 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-09 11:30:19 [INFO] : 正在获取 [奇安信] 威胁情报...
+2021-03-09 11:30:24 [INFO] : 得到 [奇安信] 最新威胁情报 [0] 条
+2021-03-09 11:30:24 [INFO] : --------------------------------------------
+2021-03-09 11:30:24 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-09 11:30:24 [INFO] : 正在获取 [红后] 威胁情报...
+2021-03-09 11:30:27 [INFO] : 得到 [红后] 最新威胁情报 [2] 条
+2021-03-09 11:30:27 [INFO] : --------------------------------------------
+2021-03-09 11:30:27 [INFO] : 
+==============================================
+[ TITLE ] Adobe Acrobat和Reader 资源管理错误漏洞
+[ TIME  ] 2020-02-20 12:34:02
+[ CVE   ] CVE-2020-3750
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=de5da78b36494efd994217ba47d6158d
+2021-03-09 11:30:27 [INFO] : 
+==============================================
+[ TITLE ] Adobe Acrobat和Reader 缓冲区错误漏洞
+[ TIME  ] 2020-02-20 12:34:11
+[ CVE   ] CVE-2020-3742
+[ SRC   ] 红后
+[ URL   ] https://redqueen.tj-un.com/IntelDetails.html?id=47edc8a3c85346dc96d3c16af2235d2a
+2021-03-09 11:30:27 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-09 11:30:27 [INFO] : 正在获取 [安全客] 威胁情报...
+2021-03-09 11:30:31 [INFO] : 得到 [安全客] 最新威胁情报 [0] 条
+2021-03-09 11:30:31 [INFO] : --------------------------------------------
+2021-03-09 11:30:31 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-09 11:30:31 [INFO] : 正在获取 [斗象] 威胁情报...
+2021-03-09 11:30:40 [INFO] : 得到 [斗象] 最新威胁情报 [0] 条
+2021-03-09 11:30:40 [INFO] : --------------------------------------------
+2021-03-09 11:30:40 [INFO] : ++++++++++++++++++++++++++++++++++++++++++++
+2021-03-09 11:30:40 [INFO] : 正在获取 [CNVD] 威胁情报...
+2021-03-09 11:30:43 [WARNING] : 获取 [CNVD] 威胁情报失败： [HTTP Error 521]
+2021-03-09 11:30:43 [INFO] : 得到 [CNVD] 最新威胁情报 [0] 条
+2021-03-09 11:30:43 [INFO] : --------------------------------------------
+2021-03-09 11:30:43 [INFO] : [邮件] 正在推送威胁情报...
+2021-03-09 11:30:43 [INFO] : [邮件] 收件人清单： ['mrxn.net@gmail.com']
+2021-03-09 11:30:45 [ERROR] : [邮件] 推送威胁情报失败
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrszb5.qq.com')
+2021-03-09 11:30:45 [ERROR] : Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrszb5.qq.com')
+Traceback (most recent call last):
+  File "/home/runner/work/threat-broadcast/threat-broadcast/src/notice/mail.py", line 47, in to_mail
+    smtpObj.login(sender, password)
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 732, in login
+    raise last_exception
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 721, in login
+    (code, resp) = self.auth(
+  File "/opt/hostedtoolcache/Python/3.8.8/x64/lib/python3.8/smtplib.py", line 644, in auth
+    raise SMTPAuthenticationError(code, resp)
+smtplib.SMTPAuthenticationError: (502, b'Invalid input from 100.107.4.33 to newxmesmtplogicsvrszb5.qq.com')
